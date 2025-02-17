@@ -36,7 +36,7 @@
     ],
     "family": "app-ci-cdv2",
     "taskRoleArn": "arn:aws:iam::815919471755:role/LabRole",
-    "executionRoleArn": "arn:aws:iam::815919471755:role/LabRole",
+    "executionRoleArn": "arn:aws:iam::6815919471755:role/LabRole",
     "networkMode": "awsvpc",
     "volumes": [],
     "placementConstraints": [],
